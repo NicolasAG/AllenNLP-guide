@@ -1,0 +1,3 @@
+FROM allennlp/models
+
+WORKDIR /
